@@ -13,20 +13,20 @@ scene.setTileMap(img`
     ....................................................................................ffffffffffffffff
     ..........................................................................7......ffffaaaaaaaaaaaaaaa
     .....................fffff......................................................ffaaaaaaaaaaaaaaaaaa
-    .............................................................................fffaaaaaaaaaaaaaaaaaaaa
-    ...........................................................................ffaaaaaaaaaaaaaaaaaaaaaaa
-    ....................ffffff.....7......7..........................7......fffaaaaaaaaaaaaaaaaaaaaaaaaa
+    .............................................................................fffaaaaaaaaaaaaaa999aaa
+    ...........................................................................ffaaaaaaaaaaaaaaaaa999aaa
+    ....................ffffff.....7......7..........................7......fffaaaaaaaaaaaaaaaaaaa999aaa
     ...................faaaaaaff.................ffffff.....7..............ffaaaaaaaaaaaaaaaaaaaaaaaaaaa
     .......7..........faaaaaaaaffff.............ffaaaaaff................fffaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     .............ffffffaaaaaaaaaaaaf...........ffaaaaaaaff......7.......ffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     fffffffffffffaaaaaaaaaaaaaaaaaafffffffffffffaaaaaaaaaaff.......fffffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaff.....ffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaafffffffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaff.....ffaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaafffffffaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaa999aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -75,7 +75,7 @@ scene.setTile(7, img`
     . . . . . . f f f f d d d c . .
     . . . . . . . . . . c c c . . .
 `, true)
-scene.setTile(12, img`
+scene.setTile(9, img`
     ffffffffffffffffff
     ffffffffffffffffff
     ffffff111fffffffff
