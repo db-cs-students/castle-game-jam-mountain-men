@@ -1,5 +1,6 @@
 {
     "name": "Castle Game Jam by hayden",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
